@@ -1,0 +1,50 @@
+
+<html>
+<head><title>Simple Web Page Using  2 Frames (Main Page)</title>
+</head>
+
+<frameset cols="20%, *">
+   <frame src="frame1.htm" name="contents" noresize>
+   <frame src="frame2.htm" name="pageinfo" noresize>
+
+   <noframes>
+       <body>
+               This web page is constructed using frames.
+               Your web browser does not support frames.
+               Seek, nonframes version.
+       </body>
+   </noframes>
+</frameset>
+
+</html>
+-----------------------------------------------------------------
+<html>
+<head><title>Left Pane (frame1.htm)</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#FF0000">
+
+<h3>Page Contents</h3>
+
+<br>
+<h5>
+    Link 1<br><br>
+    Link 2<br><br>
+    Link 3<br><br>
+    Link 4<br><br>
+</h5>
+
+</body>
+</html>
+-----------------------------------------------------------------
+<html>
+<head><title>Right Pane (frame2.htm)</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#FF0000">
+
+<h3 align="center">Information Page</h3>
+
+<br>
+<h5>Welcome. Here you can find....</h5>
+
+</body>
+</html>
