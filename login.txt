@@ -1,0 +1,16 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5CEA-9AE4
+
+ Directory of C:\Users\sunil\Documents\GitHub\jenkinstest
+
+05/29/2018  10:22 PM    <DIR>          .
+05/29/2018  10:22 PM    <DIR>          ..
+05/29/2018  12:22 AM               462 index.html
+05/29/2018  10:22 PM                 0 login.txt
+05/29/2018  10:22 PM               618 projects.txt
+05/29/2018  12:22 AM               411 readme.txt
+05/29/2018  12:29 AM               565 Shivam.html
+05/29/2018  12:29 AM               513 sunil.html
+05/27/2018  11:06 PM             1,128 test.html
+               7 File(s)          3,697 bytes
+               2 Dir(s)  212,001,083,392 bytes free
